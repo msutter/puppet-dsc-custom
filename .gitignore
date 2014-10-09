@@ -1,0 +1,10 @@
+.bundle
+bin
+import
+spec/fixtures
+.librarian
+.tmp
+*.lock
+.rbenv-gemsets
+.ruby-version
+pkg
